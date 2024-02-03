@@ -1,3 +1,9 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
 html {
    box-sizing: border-box;
    height: 100%;
@@ -32,7 +38,6 @@ img {
    margin: 0 auto;
 }
 
-/* MAIN CONTENT */
 .main__content {
    flex-grow: 1;
 }
